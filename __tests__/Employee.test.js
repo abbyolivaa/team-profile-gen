@@ -10,7 +10,25 @@ test ('information', () => {
 })
 
 test ('gets employee name', () => {
-    const employee = new Employee ('', '1', 'mark123@gmail.com');
+    const employee = new Employee ('Mark', '1', 'mark123@gmail.com');
 
-    expect(employee.name)
+    expect(employee.getName()).toBe('Mark');
+})
+
+test ('gets employee id', () => {
+    const employee = new Employee ('Mark', '1', 'mark123@gmail.com');
+
+    expect(employee.getId()).toBe('1');
+})
+
+test ('gets employee email', () => {
+    const employee = new Employee ('Mark', '1', 'mark123@gmail.com');
+
+    expect(employee.getEmail()).toBe('mark123@gmail.com');
+})
+
+test ('gets employee role', () =>{
+    const employee = new Employee ('Mark', '1', 'mark123@gmail.com');
+    
+    expect(employee.getRole()).toEqual('Employee');
 })
