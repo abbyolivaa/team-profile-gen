@@ -22,17 +22,7 @@ header{
 }
 h1{
     font-weight: lighter;
-}
 
-h2{
-    border: solid 2px var(--green);
-    padding: 10px;
-    font-weight: lighter;
-}
-
-h2 span{
-    color: var(--pale-blue);
-    font-style: italic;
 }
 
 .profile-section {
@@ -45,18 +35,28 @@ h2 span{
 
 .profile{
     background: var(--teal);
-    padding: 20px;
+    padding: 20px 20px 40px;
     margin-bottom: 40px;
     text-align: left;
     border: ridge 3px var(--green);
     border-radius: 5px;
+    width: 250px;
 
+}
+.name {
+    font-size: 25px;
+    font-style: italic;
 }
 
 .role {
     border-bottom: solid 2px var(--green);
     padding-bottom: 10px ;
 }
+
+.role svg {
+    padding-right: 10px;
+}
+
 .id{
     padding-top: 10px;
 }
