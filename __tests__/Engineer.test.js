@@ -3,7 +3,7 @@ const Engineer = require('../lib/Engineer')
 test ('engineer info', () => {
     const engineer = new Engineer('Quin', '3', 'quin12@gmail.com')
 
-    expect(engineer.name).toBe('Quin');
+    expect(engineer.fullName).toBe('Quin');
     expect(engineer.id).toBe('3');
     expect(engineer.email).toBe('quin12@gmail.com');
 })
