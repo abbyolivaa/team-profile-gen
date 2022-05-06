@@ -18,7 +18,8 @@ This application is designed for users that want to create a team profile. This 
 Click this <a href= "https://user-images.githubusercontent.com/100249688/167202373-2ed184ce-23ce-4dfc-a6bd-bd0d7f3478e0.mp4">link<a> to watch a demo on how to use this application :)
 
 ## Screenshot
-    ![image](https://user-images.githubusercontent.com/100249688/167202806-9eaa568f-2b38-42ed-9ceb-915ade9e9886.png)
+    <img width="1440" alt="image" src="https://user-images.githubusercontent.com/100249688/167202931-2df8434f-ade6-49b9-b04a-3d0979864298.png">
+
 
 
 
