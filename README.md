@@ -14,6 +14,10 @@ This application is designed for users that want to create a team profile. This 
     - FS
     
 ## Video
-Click this <a href= "link">link<a> to watch a demo on how to use this application :)
+
+Click this <a href= "https://user-images.githubusercontent.com/100249688/167202373-2ed184ce-23ce-4dfc-a6bd-bd0d7f3478e0.mp4">link<a> to watch a demo on how to use this application :)
 
 ## Screenshot
+
+
+
